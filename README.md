@@ -6,3 +6,6 @@
     <div>支持漏洞:
     <p>Thinkphp5 5.0.22/5.1.29 RCE</p>
     <p>ThinkPHP5 5.0.23 RCE</p></div>
+
+https://github.com/yu2lulu/tpscan/blob/master/img/2.jpg
+https://github.com/yu2lulu/tpscan/blob/master/img/1.jpg
